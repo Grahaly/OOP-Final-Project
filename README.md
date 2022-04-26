@@ -1,8 +1,5 @@
 # OOP-Final-Project
-stock market follow-up (coins, dollar, euro etc.){
 
-gets data from finance , stores data in sql , then shows data in GUI , refreshes in every 1 sec. , favourites page , stocks can be added to favourites. }
+Jewellery system {
 
-Student system {
-
-enter notes, store the notes in the system, calculates the average, gives the notes(FF,CC,AA ex), calculates the class note average ...) }
+add,delete,update firms and saves them to database, can do operations between values, can do mathematical operations and can save that value to database to show it later, other features will be added after asked a jeweler to reach the needs.)
